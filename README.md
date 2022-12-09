@@ -8,5 +8,5 @@
 💁 The jupyter notebook describe a machine learning approach, particularly LSTM model to predict the chlorophyll concentration in the Kota Kinabalu, coast of Sabah, Malaysia using the L4 chlrophyll data from the corpenicus marine service (CMEMS) from 2013 to 2020.
 
 
-💁 The jupyter notebook is advised to be run on google colab using the tensorflow library. 
+💁 The jupyter notebook is run on google colab using the tensorflow library. 
 
